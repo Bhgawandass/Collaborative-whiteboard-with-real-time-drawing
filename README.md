@@ -38,7 +38,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1.  **Clone the repository** (or download the source code):
     ```bash
-    git clone https://github.com/your-username/collab-draw.git
+    git clone [https://github.com/Bhgawandass/Collaborative-whiteboard-with-real-time-drawing.git]
     cd collab-draw
     ```
 
